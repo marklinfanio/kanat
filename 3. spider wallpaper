@@ -1,0 +1,28 @@
+{
+  "username": "anjanilinka",
+  "album": [
+    "peter parker","live spider","gwen stacy","miles morales","venom"
+  ],
+  "init_jumlah_photo": 100,
+  "admob_banner_id": "ca-app-pub-9067857494494316/6972966877",
+  "admob_interstitial_id": "",
+  "admob_native_id": "ca-app-pub-9067857494494316/3033721866",
+  "admob_rewarded_id": "",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-9067857494494316/4155231846",
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+  "startapp_app_id": "",
+  "unity_id": "4538667",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "interstitial_inverval": 10,
+  "list_ads": [
+    "ADMOB",
+    "UNITY",
+    "STARTAPP"
+  ]
+}
