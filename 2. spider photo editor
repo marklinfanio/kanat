@@ -1,0 +1,23 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-9067857494494316/1523350564",
+      "main_ads_intertitial":"ca-app-pub-9067857494494316/3835170206",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "native_ads_for_admob":"ca-app-pub-9067857494494316/7897187229",
+      "interval_intertitial": 7,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": ""
+    }
+  ]
+}
