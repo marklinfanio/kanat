@@ -1,0 +1,27 @@
+{
+  "username": "linfanio",
+  "album": [
+    "frozen", "frozen live"
+  ],
+  "init_jumlah_photo": 100,
+  "admob_banner_id": "ca-app-pub-9067857494494316/9247406267",
+  "admob_interstitial_id": "",
+  "admob_native_id": "ca-app-pub-9067857494494316/5775065116",
+  "admob_rewarded_id": "",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-9067857494494316/6338828433",
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+  "startapp_app_id": "200804712",
+  "unity_id": "4538667",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "interstitial_inverval": 10,
+  "list_ads": [
+    "ADMOB",
+    "UNITY",
+    "STARTAPP"
+  ]
