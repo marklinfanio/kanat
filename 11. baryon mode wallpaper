@@ -4,12 +4,14 @@
     "baryon", "minato"
   ],
   "init_jumlah_photo": 100,
-  "admob_banner_id": "ca-app-pub-9067857494494316/9599874416",
+  "admob_banner_id": "ca-app-pub-6231448703309615/3483054017",
   "admob_interstitial_id": "",
-  "admob_native_id": "ca-app-pub-9067857494494316/6822216575",
+  "admob_native_id": "ca-app-pub-6231448703309615/2688847095",
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
-  "admob_open_app_id": "ca-app-pub-9067857494494316/4196053234",
+  "admob_open_app_id": "",
+  
+  
   "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
   "admob_hpk_3": "home security",
@@ -40,6 +42,8 @@
   "admob_hpk_28": "attorney big al",
   "admob_hpk_29": "attorney near me car accident",
   "admob_hpk_30": "attorney define",
+  
+  
   "startapp_app_id": "200804712",
   "unity_id": "4538667",
   "unity_banner": "Banner_Android",
