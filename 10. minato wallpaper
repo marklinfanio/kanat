@@ -4,8 +4,8 @@
     "minato"
   ],
   "init_jumlah_photo": 100,
-  "admob_banner_id": "ca-app-pub-6231448703309615/4903946894",
-  "admob_interstitial_id": "",
+  "admob_banner_id": "ca-app-pub-6230199240891395/5532108606",
+  "admob_interstitial_id": "ca-app-pub-6230199240891395/4648888884",
   "admob_native_id": "",
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
@@ -46,7 +46,7 @@
   "unity_id": "4538667",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
-  "interstitial_inverval": 8,
+  "interstitial_inverval": 4,
   "list_ads": [
     "ADMOB",
     "UNITY",
