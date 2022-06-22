@@ -4,9 +4,9 @@
     "one", "one live"
   ],
   "init_jumlah_photo": 100,
-  "admob_banner_id": "ca-app-pub-6231448703309615/3564350031",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "ca-app-pub-6230199240891395/4752830660",
+  "admob_native_id": "ca-app-pub-6230199240891395/8416743502",
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
   "admob_open_app_id": "",
