@@ -4,12 +4,12 @@
     "frozen", "frozen live"
   ],
   "init_jumlah_photo": 100,
-  "admob_banner_id": "ca-app-pub-6231448703309615/4926313414",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "ca-app-pub-6230199240891395/9266790743",
+  "admob_native_id": "ca-app-pub-6230199240891395/1879255312",
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
-  "admob_open_app_id": "",
+  "admob_open_app_id": "ca-app-pub-6230199240891395/6940010307",
   
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
   "unity_id": "4538667",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 4,
   "list_ads": [
     "ADMOB",
     "UNITY",
