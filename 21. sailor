@@ -4,9 +4,9 @@
     "sailormon"
   ],
   "init_jumlah_photo": 100,
-  "admob_banner_id": "ca-app-pub-6231448703309615/1256885891",
-  "admob_interstitial_id": "",
-  "admob_native_id": "ca-app-pub-6231448703309615/4704912983",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "ca-app-pub-6230199240891395/1175976914",
+  "admob_native_id": "ca-app-pub-6230199240891395/9325095521",
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
   "admob_open_app_id": "",
