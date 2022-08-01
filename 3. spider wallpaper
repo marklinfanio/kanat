@@ -6,7 +6,7 @@
   "init_jumlah_photo": 100,
   "admob_banner_id": "ca-app-pub-6230199240891395/6366678122",
   "admob_interstitial_id": "ca-app-pub-6230199240891395/8801269774",
-  "admob_native_id": "",
+  "admob_native_id": "ca-app-pub-6230199240891395/3776390378",
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
   "admob_open_app_id": "ca-app-pub-6230199240891395/6175106432",
@@ -47,7 +47,7 @@
   "unity_id": "4538667",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 4,
   "list_ads": [
     "ADMOB",
     "UNITY",
