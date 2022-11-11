@@ -4,12 +4,12 @@
     "chainsaw"
   ],
   "init_jumlah_photo": 100,
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "admob_banner_id": "ca-app-pub-6231448703309615/3138753638",
+  "admob_interstitial_id": "ca-app-pub-6231448703309615/6519842867",
+  "admob_native_id": "ca-app-pub-6231448703309615/9959312853",
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
-  "admob_open_app_id": "",
+  "admob_open_app_id": "ca-app-pub-6231448703309615/8199508627",
 
 
   "admob_hpk_1": "home 5g broadband",
