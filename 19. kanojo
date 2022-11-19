@@ -3,14 +3,13 @@
   "album": [
     "Kanojo"
   ],
-   "init_jumlah_photo": 100,
+ "init_jumlah_photo": 100,
   "admob_banner_id": "",
   "admob_interstitial_id": "",
   "admob_native_id": "",
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
   "admob_open_app_id": "",
-
 
   "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
